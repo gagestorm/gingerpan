@@ -1,0 +1,9 @@
+/application/config/database.php
+/application/logs/*
+/images/uploads/*
+/index.php
+/node_modules/*
+/application/cache/*
+/node_modules/*
+*~
+

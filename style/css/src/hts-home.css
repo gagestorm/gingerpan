@@ -1,0 +1,17 @@
+#website-header{
+	margin-bottom: 0px;	
+	border:1px solid #eee;
+}
+
+#website-header .top-link{
+	text-transform: uppercase;
+	font-size: 11px;
+	letter-spacing: 1px;
+	padding:20px 10px;
+	color:#888;
+} #website-header .top-link:hover{ background:#3498DB; color:white; }
+
+.broad-description{
+	border-bottom: 1px solid #ddd;
+	padding:10px 20px;
+} .broad-description.blue{  background:#3498DB;}
